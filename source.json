@@ -1,0 +1,38 @@
+{
+  "name": "spoti.pw Updates",
+  "identifier": "lightight.spoti-pw-downloads",
+  "subtitle": "Latest spoti.pw builds for Feather",
+  "website": "https://github.com/lightight/spoti-pw-downloads",
+  "iconURL": "https://raw.githubusercontent.com/lightight/spoti-pw-downloads/main/icon.png",
+  "sourceURL": "https://raw.githubusercontent.com/lightight/spoti-pw-downloads/main/source.json",
+  "apps": [
+    {
+      "name": "spoti.pw",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "spoti.pw",
+      "iconURL": "https://raw.githubusercontent.com/lightight/spoti-pw-downloads/main/icon.png",
+      "subtitle": "spoti.pw 0.22.0 on Spotify 9.1.78",
+      "localizedDescription": "Spotify with spoti.pw. Native on iOS 16.1+; Redesigned UI on iOS 26+. Sign and install with Feather.",
+      "versions": [
+        {
+          "version": "0.22.0-20261006.153122.58e750aa",
+          "buildVersion": "917802214",
+          "date": "2026-10-06T15:31:22Z",
+          "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261006.153122-58e750aa/spoti.pw.ipa",
+          "size": 132916567,
+          "minOSVersion": "16.1",
+          "localizedDescription": "Fix live product-state resets and audio-ad requests that bypassed the delegate blocker. Includes the existing offline playback and crash fixes.",
+          "sha256": "58e750aa121faeea5250009c6117f894a3047f5f5afa35765687a041f8dc8dc8"
+        }
+      ],
+      "version": "0.22.0-20261006.153122.58e750aa",
+      "versionDate": "2026-10-06T15:31:22Z",
+      "versionDescription": "Fix live product-state resets and audio-ad requests that bypassed the delegate blocker. Includes the existing offline playback and crash fixes.",
+      "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261006.153122-58e750aa/spoti.pw.ipa",
+      "size": 132916567,
+      "sha256": "58e750aa121faeea5250009c6117f894a3047f5f5afa35765687a041f8dc8dc8",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
