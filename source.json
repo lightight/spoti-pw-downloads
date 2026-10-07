@@ -15,6 +15,16 @@
       "localizedDescription": "Spotify with spoti.pw. Native on iOS 16.1+; Redesigned UI on iOS 26+. Sign and install with Feather.",
       "versions": [
         {
+          "version": "0.22.0-20261007.032847.0c516ce8",
+          "buildVersion": "917802214",
+          "date": "2026-10-07T03:28:47Z",
+          "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.032847-0c516ce8/spoti.pw.ipa",
+          "size": 132935330,
+          "minOSVersion": "16.1",
+          "localizedDescription": "Fix Liked Songs downloads through the native collection loader, resolve redesigned album headers, make saved rows playable offline with download checks, and apply Audio effects to downloaded playback.",
+          "sha256": "0c516ce89e538ba99aabf385cf9d74924c9213b3390a3fd171a7163960b5672e"
+        },
+        {
           "version": "0.22.0-20261007.024029.d5612c37",
           "buildVersion": "917802214",
           "date": "2026-10-07T02:40:29Z",
@@ -45,12 +55,12 @@
           "sha256": "58e750aa121faeea5250009c6117f894a3047f5f5afa35765687a041f8dc8dc8"
         }
       ],
-      "version": "0.22.0-20261007.024029.d5612c37",
-      "versionDate": "2026-10-07T02:40:29Z",
-      "versionDescription": "Fixed downloaded-to-streaming playback handoff so songs do not overlap. Saved tracks now expose download indicators in playlist, collection and search rows. Redesigned playlist, Liked Songs and album download buttons bind directly to the download manager, including albums with no Spotify button.",
-      "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.024029-d5612c37/spoti.pw.ipa",
-      "size": 132920051,
-      "sha256": "d5612c37ee31a902e2cda42d083723fd7f83a76b9ab64ea05a64d20169560173",
+      "version": "0.22.0-20261007.032847.0c516ce8",
+      "versionDate": "2026-10-07T03:28:47Z",
+      "versionDescription": "Fix Liked Songs downloads through the native collection loader, resolve redesigned album headers, make saved rows playable offline with download checks, and apply Audio effects to downloaded playback.",
+      "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.032847-0c516ce8/spoti.pw.ipa",
+      "size": 132935330,
+      "sha256": "0c516ce89e538ba99aabf385cf9d74924c9213b3390a3fd171a7163960b5672e",
       "appPermissions": {}
     }
   ],
