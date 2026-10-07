@@ -15,6 +15,16 @@
       "localizedDescription": "Spotify with spoti.pw. Native on iOS 16.1+; Redesigned UI on iOS 26+. Sign and install with Feather.",
       "versions": [
         {
+          "version": "0.22.0-20261007.024029.d5612c37",
+          "buildVersion": "917802214",
+          "date": "2026-10-07T02:40:29Z",
+          "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.024029-d5612c37/spoti.pw.ipa",
+          "size": 132920051,
+          "minOSVersion": "16.1",
+          "localizedDescription": "Fixed downloaded-to-streaming playback handoff so songs do not overlap. Saved tracks now expose download indicators in playlist, collection and search rows. Redesigned playlist, Liked Songs and album download buttons bind directly to the download manager, including albums with no Spotify button.",
+          "sha256": "d5612c37ee31a902e2cda42d083723fd7f83a76b9ab64ea05a64d20169560173"
+        },
+        {
           "version": "0.22.0-20261007.020651.5b6ac4bc",
           "buildVersion": "917802214",
           "date": "2026-10-07T02:06:51Z",
@@ -35,12 +45,12 @@
           "sha256": "58e750aa121faeea5250009c6117f894a3047f5f5afa35765687a041f8dc8dc8"
         }
       ],
-      "version": "0.22.0-20261007.020651.5b6ac4bc",
-      "versionDate": "2026-10-07T02:06:51Z",
-      "versionDescription": "Fix offline song selection: saved collection and playlist rows can start local playback, and tapping Downloaded songs uses Spotify\u2019s regular player and queue.",
-      "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.020651-5b6ac4bc/spoti.pw.ipa",
-      "size": 132918652,
-      "sha256": "5b6ac4bc288c1e4b23d3783e714375fc19fd74e5024772dfe5b3ebbd918f6c25",
+      "version": "0.22.0-20261007.024029.d5612c37",
+      "versionDate": "2026-10-07T02:40:29Z",
+      "versionDescription": "Fixed downloaded-to-streaming playback handoff so songs do not overlap. Saved tracks now expose download indicators in playlist, collection and search rows. Redesigned playlist, Liked Songs and album download buttons bind directly to the download manager, including albums with no Spotify button.",
+      "downloadURL": "https://github.com/lightight/spoti-pw-downloads/releases/download/build-20261007.024029-d5612c37/spoti.pw.ipa",
+      "size": 132920051,
+      "sha256": "d5612c37ee31a902e2cda42d083723fd7f83a76b9ab64ea05a64d20169560173",
       "appPermissions": {}
     }
   ],
